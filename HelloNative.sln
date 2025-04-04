@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HelloNative", "HelloNative\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DynamicHelloNative", "DynamicHelloNative\DynamicHelloNative.vcxproj", "{07A54B36-0BF9-48D9-BE0B-517CE32E2358}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PhntHelloNative", "PhntHelloNative\PhntHelloNative.vcxproj", "{24A1BB7C-74E4-4394-ABA7-E53AC10A22F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{07A54B36-0BF9-48D9-BE0B-517CE32E2358}.Release|x64.Build.0 = Release|x64
 		{07A54B36-0BF9-48D9-BE0B-517CE32E2358}.Release|x86.ActiveCfg = Release|Win32
 		{07A54B36-0BF9-48D9-BE0B-517CE32E2358}.Release|x86.Build.0 = Release|Win32
+		{24A1BB7C-74E4-4394-ABA7-E53AC10A22F9}.Debug|x64.ActiveCfg = Debug|x64
+		{24A1BB7C-74E4-4394-ABA7-E53AC10A22F9}.Debug|x64.Build.0 = Debug|x64
+		{24A1BB7C-74E4-4394-ABA7-E53AC10A22F9}.Debug|x86.ActiveCfg = Debug|Win32
+		{24A1BB7C-74E4-4394-ABA7-E53AC10A22F9}.Debug|x86.Build.0 = Debug|Win32
+		{24A1BB7C-74E4-4394-ABA7-E53AC10A22F9}.Release|x64.ActiveCfg = Release|x64
+		{24A1BB7C-74E4-4394-ABA7-E53AC10A22F9}.Release|x64.Build.0 = Release|x64
+		{24A1BB7C-74E4-4394-ABA7-E53AC10A22F9}.Release|x86.ActiveCfg = Release|Win32
+		{24A1BB7C-74E4-4394-ABA7-E53AC10A22F9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,3 @@
+[submodule "PhntHelloNative/phnt"]
+	path = PhntHelloNative/phnt
+	url = https://github.com/winsiderss/phnt.git
